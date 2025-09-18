@@ -1,0 +1,5 @@
+Name: Manasa
+SUC: 2350250014
+Course: BCA
+Rollno: 08
+Branch: Tadepalligudem
